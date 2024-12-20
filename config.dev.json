@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "personaldeveloper89@gmail.com",
+    "password": "MADE IN PHILIPPINES",
     "2FASecret": "",
     "i_user": "100090775159086",
     "proxy": null,
@@ -65,11 +65,11 @@
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
-    "port": 3000
+    "port": 10000
   },
   "serverUptime": {
     "enable": false,
-    "port": 3000,
+    "port": 10000,
     "socket": {
       "enable": true,
       "channelName": "uptime",
