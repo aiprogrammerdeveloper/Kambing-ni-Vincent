@@ -1,9 +1,9 @@
 {
   "facebookAccount": {
-    "email": "personaldeveloper89@gmail.com",
-    "password": "MADE IN PHILIPPINES",
+    "email": "",
+    "password": "",
     "2FASecret": "",
-    "i_user": "61569485262394",
+    "i_user": "100090775159086",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
@@ -36,11 +36,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『=』➥『𝗈𝗐𝗇𝖾𝗋』: 𝗩𝗜𝗡𝗖𝗘𝗡𝗧",
+  "nickNameBot": "『=』➥『𝗈𝗐𝗇𝖾𝗋』:𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝕲𝖔𝖆𝖙𝖇𝖔𝖙 𓃵𝖁2 ",
   "authorName": "Vincent Armenion",
-  "authorFB": "https://www.facebook.com/VINCENT.CUTE.27?mibextid=ZbWKwL",
+  "authorFB": "https://www.facebook.com/100090775159086",
   "authorEmail": "personaldeveloper89@gmail.com",
-  "prefix": "/",
+  "prefix": "=",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -65,11 +65,11 @@
   "dashBoard": {
     "enable": true,
     "expireVerifyCode": 300000,
-    "port": 3001
+    "port": 3000
   },
   "serverUptime": {
     "enable": false,
-    "port": 3001,
+    "port": 3000,
     "socket": {
       "enable": true,
       "channelName": "uptime",
